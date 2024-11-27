@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  name: ‘WKL-glrnhaftvm2637389’  # Specifies the self-hosted agent pool
+  name: "WKL-glrnhaftvm2637389"  # Specifies the self-hosted agent pool
 
 steps:
 - script: |
